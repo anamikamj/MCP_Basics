@@ -1,0 +1,3 @@
+Create the folder and create a virtual environment using python -m venv venv and activate it using the venv/scripts/activate
+Create the .env and requirements.txt(for the packages)
+For creating the server use the mcp_server.py
